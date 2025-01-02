@@ -29,3 +29,13 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+*.svg
+
+*.zip
+
+*.step
+
+hardware/2hp-simple-switch-button/outputs/
+
+*.3mf
