@@ -21,7 +21,7 @@ Under the [hardware](/hardware/) folder, you will find the KiCad project with th
 
 ## Circuit
 
-![schematic-exerp](/pictures/lx-sw-btn.png)
+![schematic-exerp](/pictures/schematic-op-amp.png)
 
 The circuit consist of 4 times the circuit below: an opamp as follower with a voltage devider between VCC and VEE as input through a potentiometer. The output is set to 1k impedance with a RC filter useful for debouncing the switches and buttons.
 
